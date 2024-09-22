@@ -15,11 +15,38 @@
       />
     </section>
     <footer class="text-center">
-      <p class="font-bold">Contact Us</p>
-      <ul class="text-gray-500">
-        <li>+6285 9459 80820</li>
-        <li>@momdad</li>
-        <li>Momdad Studio</li>
+      <p class="font-bold mb-4">Contact Us</p>
+      <ul class="text-gray-500 flex flex-col mb-4">
+        <li>
+          <a href="tel:+6285945980820"> +6285 9459 80820 </a>
+        </li>
+        <li>
+          <a rel="stylesheet" href="mailto:talk@momdad.id"> talk@momdad.id </a>
+        </li>
+      </ul>
+      <ul
+        class="text-gray-500 flex w-full items-center justify-center gap-2 mb-4"
+      >
+        <li>
+          <a href="https://facebook.com">
+            <img
+              width="15"
+              height="15"
+              src="/facebook-2-logo-svgrepo-com.svg"
+              alt=""
+            />
+          </a>
+        </li>
+        <li>
+          <a href="https://instagram.com">
+            <img
+              width="15"
+              height="15"
+              src="/instagram-2-1-logo-svgrepo-com.svg"
+              alt=""
+            />
+          </a>
+        </li>
       </ul>
     </footer>
   </main>
