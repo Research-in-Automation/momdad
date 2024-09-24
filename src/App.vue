@@ -7,16 +7,16 @@
     </header>
     <section id="hero" class="mb-8 flex flex-col justify-center items-center">
       <section class="relative">
-        <img
-          class="absolute top-2/4 md:right-[17%]"
-          style="transform: translate(0, -50%)"
-          src="../public/LOGO_WHITE.webp"
-          width="400"
-          alt="logo minimal"
-        />
+        <div class="h-full w-full flex justify-center items-center absolute">
+          <img
+            class="h-[200px] md:h-[400px]"
+            src="/LOGO_WHITE.webp"
+            alt="logo minimal"
+          />
+        </div>
         <img
           class="max-h-[900px]"
-          src="../public/pexels-romakaiuk-11876440.jpg"
+          src="/pexels-romakaiuk-11876440.jpg"
           alt="pexels bruna fossile"
         />
       </section>
