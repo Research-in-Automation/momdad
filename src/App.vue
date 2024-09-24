@@ -7,7 +7,9 @@
     </header>
     <section id="hero" class="mb-8 flex flex-col justify-center items-center">
       <section class="relative">
-        <div class="h-full w-full flex justify-center items-center absolute">
+        <div
+          class="h-full md:h-3/4 w-full flex justify-center items-center absolute"
+        >
           <img
             class="h-[200px] md:h-[400px]"
             src="/LOGO_WHITE.webp"
@@ -16,7 +18,7 @@
         </div>
         <img
           class="max-h-[900px]"
-          src="/pexels-romakaiuk-11876440.jpg"
+          src="/hero-image.webp"
           alt="pexels bruna fossile"
         />
       </section>
