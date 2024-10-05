@@ -66,6 +66,16 @@
             />
           </a>
         </li>
+        <li>
+          <a href="https://wa.me/+6281325460020">
+            <img
+              width="15"
+              height="15"
+              src="/whatsapp-icon-logo-svgrepo-com.svg"
+              alt=""
+            />
+          </a>
+        </li>
       </ul>
     </footer>
   </main>
