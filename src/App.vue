@@ -23,6 +23,24 @@
         />
       </section>
     </section>
+    <section
+      class="mb-8 flex flex-col text-center justify-center items-center leading-relaxed gap-4"
+    >
+      <h2 class="font-bold">About Us.</h2>
+      <p class="max-w-[600px]">
+        Momdad Studio is a <b>creative photography studio</b> dedicated to
+        capturing unique stories through our lens. We believe in the power of
+        collaboration to create truly exceptional images and videos. With a
+        <b>focus on client satisfaction</b>, we strive to deliver memorable
+        experiences and stunning results.
+      </p>
+      <p class="max-w-[600px]">
+        Inspired by the unwavering love and support of our parents, we approach
+        each project with the <b>same care and attention to detail</b>. Working
+        with us is never boring, as we bring a fresh perspective and a passion
+        for storytelling to every shot.
+      </p>
+    </section>
     <footer class="text-center">
       <p class="font-bold mb-4">Contact Us</p>
       <ul class="text-gray-500 flex flex-col mb-4">
